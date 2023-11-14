@@ -3,7 +3,7 @@
 #include <DFMiniMp3.h>
 class Mp3Notify;
 
-const int buttonPin = 4 ;	Replaced by PIR sensor
+const int buttonPin = 4 ;	// Replaced by PIR sensor
 
 int buttonState = 0;
 int buttonStateOld = 0;
